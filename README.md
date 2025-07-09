@@ -26,14 +26,9 @@
 
 ## 🖼️ Arayüz Görselleri
 
-<table>
-  <tr>
+
  ![Ekran görüntüsü 2025-07-10 000425](https://github.com/user-attachments/assets/b0650f7e-a512-4258-b9c4-f555781d2d15)
-  </tr>
-  <tr>
   ![Ekran görüntüsü 2025-07-10 000457](https://github.com/user-attachments/assets/c0204669-ba56-42a4-9a9a-d2e1f702705c)
-  </tr>
-</table>
 
 
 ---
