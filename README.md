@@ -1,29 +1,50 @@
-🎓 Ünibot – Üniversiteliler İçin Akıllı Kampüs Asistanı
-Ünibot, üniversite öğrencilerinin günlük bilgi ihtiyaçlarını karşılamak, zamanlarını verimli kullanmalarını sağlamak ve sık karşılaştıkları sorunlara hızlı çözümler sunmak için geliştirilmiş bir yapay zekâ destekli kampüs asistanıdır.
+# 🎓 Ünibot – Akıllı Kampüs Asistanı
 
-Amacımız, üniversitelilerin bilgiye daha hızlı ve sade şekilde ulaşmasını sağlamaktır. Ünibot ile gereksiz bilgi kalabalığına veda edin!
+**Ünibot**, üniversite öğrencilerinin kampüs yaşamını kolaylaştırmak amacıyla geliştirilen, sade arayüzlü ve yapay zekâ destekli bir dijital asistan uygulamasıdır. Proje, öğrencilere bilgiye hızlı erişim sağlamayı ve sık sorulan soruları anında yanıtlamayı hedefler.
 
-🔍 Projenin Amacı
-Öğrencilere sık sorulan sorular üzerinden anında destek sağlamak
+---
 
-Duyurular, sınav tarihleri gibi kampüs bilgilerine hızlı erişim
+## 📌 Projenin Amacı
 
-Basit ve kullanıcı dostu bir arayüz ile her öğrencinin rahatça kullanabileceği bir platform sunmak
+- Öğrencilerin kampüs içi bilgiye kolay erişimini sağlamak  
+- Duyurular ve etkinlikler hakkında anında bilgilendirme  
+- Gereksiz bilgi kalabalığından uzak, sade bir kullanıcı deneyimi sunmak  
+- Yapay zekâ desteğiyle sorulara doğal dilde hızlı yanıt vermek  
 
-Chatbot teknolojisini kampüs yaşamına entegre ederek dijital dönüşüme katkı sağlamak
+---
 
-🧠 Ünibot Neler Sunar?
-📅 Duyurulara Erişim: Güncel etkinlik ve sınav tarihleri
+## 🤖 Kullanılan Teknolojiler
 
-❓ Sık Sorulan Sorulara Anlık Yanıtlar
+| Katman | Teknoloji |
+|--------|-----------|
+| Backend | Python |
+| Frontend | HTML, CSS, JavaScript |
+| Yapay Zekâ | Google Gemini API |
+| Geliştirme Ortamı | Visual Studio Code |
 
-🗣️ Doğal Dil Anlayışıyla Etkileşimli Sohbet
+---
 
-⏳ Zamandan Tasarruf Ettiren Akıllı Asistan
+## 🖼️ Arayüz Görselleri
 
-🎯 Kampüs Hayatına Uyum Sağlayan Minimal Tasarım
+<table>
+  <tr>
+ ![Ekran görüntüsü 2025-07-10 000425](https://github.com/user-attachments/assets/b0650f7e-a512-4258-b9c4-f555781d2d15)
+  </tr>
+  <tr>
+  ![Ekran görüntüsü 2025-07-10 000457](https://github.com/user-attachments/assets/c0204669-ba56-42a4-9a9a-d2e1f702705c)
+  </tr>
+</table>
 
-![Ekran görüntüsü 2025-07-10 000425](https://github.com/user-attachments/assets/4f9280fd-775c-4269-a634-30ed2dddc082)
-![Ekran görüntüsü 2025-07-10 000457](https://github.com/user-attachments/assets/da5371b8-be11-4d18-b95b-defbf9b2584d)
+
+---
+
+## ⚙️ Kurulum ve Çalıştırma
+
+```bash
+git clone https://github.com/kullaniciadi/unibot.git
+cd unibot
+pip install -r requirements.txt
+python app.py
+
 
 
